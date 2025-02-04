@@ -3,10 +3,10 @@ A simple weather application using the openweather API.
 
 STEPS TO RUN THE CODE:
 
-Go to https://openweathermap.org
-Create a free account
-Navigate to the API keys section
-Generate a key
-Copy that key to clipboard
-Insert that key into the required variable in the script.js file
+1. Go to https://openweathermap.org
+2. Create a free account
+3. Navigate to the API keys section
+4. Generate a key
+5. Copy that key to clipboard
+6. Insert that key into the required variable in the script.js file
 Enjoy!
